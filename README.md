@@ -60,6 +60,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shecktors/shecktors/blob/output/snake.svg" alt="Snake animation" />
-
-###
