@@ -5,10 +5,10 @@
 <p align="left">Hi there! 👋 I'm a pianist with a huge passion for arts, cinema and entertainment. 🎹🎨🎬 After dedicating 15 years to music, I decided to change course and approach front-end development, a field that stimulates and challenges me every day. 💻🚀 I love to express myself creatively and I've always been fascinated by the digital world. I've acquired technical and computer skills that allow me to manage my online and offline activities in the best way. 🌐🔌 Music taught me to think outside the box and find original solutions to problems. 🎼🧠</p>
 
 ###
-
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shecktors&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
